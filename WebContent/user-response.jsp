@@ -7,6 +7,8 @@
 <title>User confirmation</title>
 </head>
 <body>
-	The user confirmed: ${param.first_name} ${param.last_name} from ${param.country}
+	The user confirmed: ${param.first_name} ${param.last_name} <br>
+	Gender: ${param.gender} <br>
+	from ${param.country} <br>
 </body>
 </html>
