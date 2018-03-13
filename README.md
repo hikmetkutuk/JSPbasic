@@ -28,9 +28,7 @@ Thanks to the Unified EL, JSTL tags, such as the JSTL iteration tags, can now be
 
 JSP 2.1 leverages the Servlet 2.5 specification for its web semantics.
  
-What's New
-	
- 
+### What's New
  
 Maintenance Review on JavaServer Pages JSR 245. There are two sets of changes
 
