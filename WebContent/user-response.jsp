@@ -8,7 +8,17 @@
 </head>
 <body>
 	The user confirmed: ${param.first_name} ${param.last_name} <br>
-	Gender: ${param.gender} <br>
 	from ${param.country} <br>
+	Gender: ${param.gender} <br>
+	Languages: <br>
+	<ul>
+		<%
+			String[] langs = request.getParameterValues("language");
+			for(String temp : langs)
+			{
+				out.println("<li>" + temp + "</>");
+			}
+		%>
+	</ul>
 </body>
 </html>
