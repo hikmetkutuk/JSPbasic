@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.oracle.com/technetwork/java/javaee/jsp/index.html">
-    <img alt="JSP" src="http://i.hizliresim.com/jyRdMn.png" width="200"/>
+    <img alt="JSP" src="https://image.ibb.co/kda33J/Download_Java_For_Mac_and_Windows_free.png" width="200"/>
   </a>
 </p>
 
